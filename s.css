@@ -1,0 +1,46 @@
+*{
+    
+    text-align: center;
+    margin: 0;
+}
+.top-container
+{
+    background-color:#5E1675;
+    border: 10px;
+    border-color: black;
+    padding: 20px;
+    
+}
+.middle-container
+{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    border:20px;
+}
+.bottom-container
+{
+    background-color: #b66ccf;
+    width: 200px;
+    height: 200px;
+    border:10px;
+}
+h1{
+    color: aliceblue    ;
+}
+h2{
+    color: aliceblue    ;
+}
+
+.a
+{
+    border-radius: 50%;
+    width: 20%;
+    position: relative;
+    right:25%;
+}
+
+hr{
+    border-style: ;dotted;
+}
+colo
