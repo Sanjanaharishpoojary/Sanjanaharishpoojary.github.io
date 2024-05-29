@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 /* Your other styles go here */
+@media screen and (max-width: 600px) {
+   
+ 
 *{
     
     text-align: center;
@@ -76,4 +79,5 @@ h1{
 
 hr{
     border-style: ;dotted;
+}
 }
