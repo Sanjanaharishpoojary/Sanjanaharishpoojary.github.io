@@ -6,7 +6,7 @@ body {
 }
 
 nav {
-    background-color:#838792;
+    background-color:#987070;
     padding: 10px 0;
     text-align: center;
 }
@@ -23,6 +23,8 @@ nav a {
     justify-content: center;
     align-items: center;
     padding: 50px;
+    background-color: black;
+    color:#CAF4FF;
 }
 
 .intro img {
@@ -62,4 +64,54 @@ transition: transform 0.3s ease-in-out;
 .logo:hover
 {
     transform:scale(0.9);
+}
+
+span
+{
+    font-size:40px;
+    font-family:'Roboto', sans-serif;
+}
+
+.mid
+{
+    background-color:#987070 ;
+    padding:50px 50px 50px 50px;
+}
+div[left]
+{
+    float:left;
+    padding:10px;
+    background-color: black;
+    margin:20px 10px 20px 10px;
+    height:300px;
+    width:25%;
+    border-radius: 10%;
+}
+
+div[left]:hover
+{
+    transform:scale(0.8);
+    transition: transform 0.5s ease-in-out;
+    background-color:lightpink;
+}
+
+div[center]
+{
+    padding:10px;
+    background-color: black;
+    margin:20px 0px 40px 430px;
+    height:300px;
+    width:25%;
+    border-radius: 10%;
+}
+
+div[right]
+{
+    float:right;
+    padding:10px;
+    background-color: black;
+    margin:;
+    height:300px;
+    width:25%;
+    border-radius: 10%;
 }
