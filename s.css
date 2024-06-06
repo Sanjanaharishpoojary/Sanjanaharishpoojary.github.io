@@ -6,7 +6,7 @@ body {
 }
 
 nav {
-    background-color: #f8f8f8;
+    background-color:#838792;
     padding: 10px 0;
     text-align: center;
 }
@@ -14,7 +14,7 @@ nav {
 nav a {
     margin: 0 15px;
     text-decoration: none;
-    color: #333;
+    color:#32012F;
 }
 
 .intro {
@@ -39,4 +39,10 @@ nav a {
     width: 30px;
     height: 30px;
     margin-right: 10px;
+}
+
+#profile-picture
+{
+height:21rem;
+width:21rem;
 }
