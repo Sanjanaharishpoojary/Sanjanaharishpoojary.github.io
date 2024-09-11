@@ -54,8 +54,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or would like to get in touch, feel free to contact me:
 
 - **Email:** sanjanahpoojary@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/sanjana-harish-b73645234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
+- **LinkedIn:** https://www.linkedin.com/in/sanjanaharish
 Thank you for visiting my portfolio website repository!
 
 ---
